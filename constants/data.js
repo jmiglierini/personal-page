@@ -1,11 +1,11 @@
 const userData = {
-  githubUsername: "manuarora700",
-  name: "Manu Arora",
-  designation: "Full-Stack Developer",
-  avatarUrl: "/avatar.png",
-  email: "manuarorawork@gmail.com",
-  phone: "+91 9587738861",
-  address: "Jaipur, Rajasthan, India.",
+  githubUsername: "jmiglierini",
+  name: "Joaquín Miglierini",
+  designation: "Industrial Engineer",
+  avatarUrl: "/profile.jpg",
+  email: "jmiglierini@gmail.com",
+  phone: "+34 684152666",
+  address: "Barcelona, Spain",
   projects: [
     {
       title: "Tailwind Master Kit",
@@ -50,11 +50,10 @@ const userData = {
   ],
   about: {
     title:
-      "I'm a software developer that loves building products and web applications that impact millions of lives",
+      "Industrial Engineer with more than 6 years of experience managing an E-commerce and more than 2 years developing Web applications.",
     description: [
-      `I've been developing full-stack application since I was 10 years old. I didn't know what full-stack meant at that time because the term was not coined back then. I'm so out of content right now that I'm literally crying writing this text since lorem text is so 2012 now.`,
-      `After learning HTML and struggling with CSS, I came up with a brilliant idea of using bootstrap so that I don't have to style everything by myself and - for obvious reasons - if you knew bootstrap, you were cool.`,
-      `But now, I'm a legend. I've been coding in React, Angular, Vue, Svelte, Node.js, Express, Fastify, MongoDB, MySQL, Bootstrap, Tailwind, C, C++, C#, Rust, Haskell, Perl, PHP, Assembly, Logo and YouDontKnowShit programming language etc to name a few. Although I barely know the syntax (Psst, Stack overflow!), I consider myself a Ninja developer I'm laughing right now.`,
+      `Currently I work as a SAP WM/EWM Consultant and WebMaster of 4 web pages, I am also a Professor at the National University of Tucumán of the subject: "Fundamentals of Technology".`,
+      
     ],
     currentProject: "Tailwind Master Kit",
     currentProjectUrl: "https://tailwindmasterkit.com",
@@ -96,8 +95,8 @@ const userData = {
       desc: "Major in Computer Science and Engineering with a CGPA of 7.0. Nobody asks this but it's okay.",
     },
     {
-      title: "High School",
-      company: "Delhi Public School, Jaipur.",
+      title: "University",
+      company: "Universidad de Palermo",
       year: "2015",
       companyLink: "https://upes.co.in",
       desc: "Subjects being PCM - I barely survived with 93.6% marks aggregate. Flex fridays, fellas.",
@@ -108,8 +107,8 @@ const userData = {
   socialLinks: {
     instagram: "https://instagram.com/maninthere",
     twitter: "https://twitter.com/mannupaaji",
-    linkedin: "https://linkedin.com/in/manuarora28",
-    github: "https://github.com/manuarora700",
+    linkedin: "https://www.linkedin.com/in/jmiglierini/",
+    github: "https://github.com/jmiglierin",
     facebook: "https://facebook.com/",
   },
 };

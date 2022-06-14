@@ -7,5 +7,7 @@ export default function about() {
     <ContainerBlock>
       <AboutMe />
     </ContainerBlock>
+
+    
   );
 }
