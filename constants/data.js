@@ -103,10 +103,10 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
+    "https://drive.google.com",
   socialLinks: {
-    instagram: "https://instagram.com/maninthere",
-    twitter: "https://twitter.com/mannupaaji",
+    instagram: "https://www.instagram.com/joaco_miglie/",
+    twitter: "https://twitter.com",
     linkedin: "https://www.linkedin.com/in/jmiglierini/",
     github: "https://github.com/jmiglierin",
     facebook: "https://facebook.com/",
